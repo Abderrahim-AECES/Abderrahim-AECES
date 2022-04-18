@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abderrahim
 - 👀 I’m interested in Signal Processing, RADAR, RADAR data processing, Communication Systems, Control Systems and Artificial Intelligence  
-- 🌱 I’m currently learning artificial ML and DL for RADAR applications
+- 🌱 I’m currently learning  ML and DL for RADAR applications
 - 💞️ I’m looking to collaborate on RADAR modeling, RADAR signal and data processing, communication systems modeling, and signal processing projects.
 
 <!---
